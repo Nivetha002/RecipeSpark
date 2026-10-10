@@ -3,15 +3,7 @@
 RecipeSpark is a Flutter mobile application that helps users decide what to cook based on the ingredients they have. It combines a structured recipe catalog, ingredient matching, smart search, AI-powered cooking assistance, favorites, and offline access to available content.
 
 ## App Screenshots
-
-<img width="592" height="1588" alt="1_Home" src="https://github.com/user-attachments/assets/60dc11bc-2c2a-4f15-9bdf-9e1b766a0b1f" />
-<img width="568" height="1368" alt="2_Select_Ingredients" src="https://github.com/user-attachments/assets/7b15d3a5-347e-4aee-afdf-e0201d78b719" />
-<img width="558" height="1368" alt="3_Recipe_Details" src="https://github.com/user-attachments/assets/4708ed9b-4b2c-4b42-9f90-a81d8b326cd4" />
-<img width="590" height="1368" alt="4_Cooking_Steps" src="https://github.com/user-attachments/assets/55797746-70da-404c-a7e6-5a81ae2d0280" />
-<img width="580" height="946" alt="5_Explore" src="https://github.com/user-attachments/assets/2c24e192-8ed9-449b-aa41-c2be28dd2839" />
-<img width="564" height="1142" alt="6_Saved_Recipes" src="https://github.com/user-attachments/assets/953d96e4-6c71-471a-b665-13df69d8875f" />
-<img width="558" height="1142" alt="7_AI_Assistant" src="https://github.com/user-attachments/assets/524aa3b0-36c5-4356-9f6c-4049367fa62d" />
-<img width="582" height="1142" alt="8_Profile" src="https://github.com/user-attachments/assets/26f2b463-7443-45b9-92fc-bebd91da6e29" />
+<img width="1214" height="1295" alt="RecipeSpark Cooking App Showcase" src="https://github.com/user-attachments/assets/64e225a6-0644-43aa-9b59-593a9b0354a3" />
 
 > **Cook with what you have. Discover what you can make. Let AI guide you while you cook.**
 

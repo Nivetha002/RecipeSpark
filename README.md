@@ -248,3 +248,9 @@ Possible future features include:
 - Meal planning and grocery planning.
 - Voice-based ingredient entry and cooking assistance.
 - Nutrition tracking and personalized recommendations.
+
+## Author
+
+**[Nivetha]**
+
+- GitHub:(https://github.com/Nivetha002)
